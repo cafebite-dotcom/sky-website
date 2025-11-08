@@ -1,0 +1,28 @@
+body {
+  background: #0f0f0f;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+.container {
+  max-width: 700px;
+  margin: auto;
+  background: #1c1c1c;
+  padding: 20px;
+  border-radius: 10px;
+  border: 1px solid #333;
+}
+
+h1 {
+  color: #4ea5ff;
+}
+
+h2 {
+  margin-top: 20px;
+  color: #8cc4ff;
+}
+
+a {
+  color: #4ea5ff;
+}
